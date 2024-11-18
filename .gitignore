@@ -23,6 +23,11 @@ checkpoints/
 *.pt
 *.pth
 
+# Folders
+data/
+zoedepth/
+torchhub/
+
 # Distribution / packaging
 .Python
 build/
