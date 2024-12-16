@@ -1,0 +1,5 @@
+# Streamlit app dependencies
+streamlit
+pillow
+numpy
+pandas
