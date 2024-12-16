@@ -142,6 +142,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+streamlit/streamlitenv/*
+streamlit/streamlitenv/
 .env
 .venv
 myenv/
